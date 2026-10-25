@@ -1,0 +1,27 @@
+{
+    "name": "Gaming room",
+    "description": "Gaming room vibe.",
+    "OnGameStart": {
+        "luaScript": "",
+        "luaFiles": [
+            "scriptbg.lua", 
+            "scriptplushy.lua", 
+            "scriptrug.lua", 
+            "scriptcupboard.lua", 
+            "scriptcouch.lua", 
+            "scriptdesk.lua", 
+            "scriptPC.lua", 
+            "scriptTV.lua", 
+            "scriptwindow.lua", 
+            "scriptdoor.lua", 
+            "scriptbed.lua"
+        ]
+    },
+    "targetVersion": "0.97.11",
+    "doNotChangeVariablesBelowThis": {
+        "timeCreated": 638220816294333740,
+        "guid": {
+            "serializedGuid": "a1050bf4-da11-4f4f-b0c3-d9d96922bc6c"
+        }
+    }
+}
